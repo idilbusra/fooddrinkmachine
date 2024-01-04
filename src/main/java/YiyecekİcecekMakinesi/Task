@@ -1,0 +1,19 @@
+  /*
+Urun urun = new Urun();
+
+1) Kullanıcı ürünleri göstermeliyiz. ----> Urun clasın da bir obj. toString()
+2) Scanner --> Scanner clasından bir obj yazınız
+3) Loop --> Do-While Loop --> kullanıcı 0-7 rakamları arasında bir seçim yapmalı ve eğer girmiş olduğu rakam
+1 den küçük ve ya 7 den büyük ise döngü devam etmeli ve kullanıcı 1-7 arasında bir seçim yapmaya force edilmeli.
+4) 0 a basarak ta menuden cıkabilmeli. --> Yine Bekleriz... Yazısını konsola yazdıralım....
+5) Kullanıcıdan urunNumarasi (1-7 arasında rakam {Kullanıcı 1 rakamı seçerse, Kraker, 2 rakamını seçerse cips .... }) --> switch-case yapısı kurmalıyım...
+6) switch benden urunNumarasi ve alınan bu urunNumarasina göre ilgili ürünün fiyat ı alınmalı. urun.krakerAl(), urun.CipsAl(), urun.cayAl(), cocaColaAl() ....
+(fiyat belirlemek icin ben fiyatBelirle())
+
+Bir metodun farklı davranışlarını ayarlamak veya özelleştirmek için kullanılabilir.
+Örneğin, bir metodun farklı seçeneklerle çalışmasını istiyorsanız, bu seçenekleri
+"options" olarak adlandırılan bir nesne aracılığıyla iletebilirsiniz.
+ Bu sayede, metodun farklı senaryolarda farklı davranışlar sergilemesini
+ sağlayabilirsiniz.
+ */
+
